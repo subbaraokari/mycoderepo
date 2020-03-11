@@ -1,0 +1,20 @@
+
+.content{
+	width:400px;
+	margin-right:auto;
+	margin-left:auto;
+	border:5px solid #ccc;
+	box-shadow: 2px 2px 0.5px 0.5px;
+}
+.home{
+	border:1px solid red;
+	color:blue;
+	padding:6px;
+	margin-top: 10px;
+	border-radius:8px;
+	text-decoration:none;
+}
+
+.container{
+	text-align:center;
+}
